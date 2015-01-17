@@ -1,6 +1,6 @@
 {
   "name": "require-file",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Require any file as a string, browser/node way",
   "main": "index.js",
   "browser": "index-browser.js",
