@@ -2,8 +2,6 @@
  * @module  require-file
  */
 
-//TODO: add binary option
-
 function require(url){
 	request = new XMLHttpRequest();
 

@@ -22,6 +22,6 @@
   "author": "Deema Ywanow <dfcreative@gmail.com>",
   "license": "Unlicensed",
   "dependencies": {
-    "rfile": "~1.0.0"
+    "rfile": "^1.0.0"
   }
 }
